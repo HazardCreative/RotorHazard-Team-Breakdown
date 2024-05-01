@@ -1,0 +1,13 @@
+{
+    "name": "Team Breakdown",
+    "author": "Michael Niggel",
+    "author_uri": "https://hazardcreative.com",
+    "description": "Provides a list of pilots broken into into evenly-matched teams based on qualifying times, as a class ranking method",
+    "info_uri": "https://github.com/HazardCreative/RotorHazard-Team-Breakdown",
+    "license": "RotorHazard",
+    "license_uri": "https://github.com/RotorHazard/RotorHazard/blob/main/LICENSE",
+    "version": "0.1.0",
+    "required_rhapi_version": "1.1",
+    "update_uri": null,
+    "text_domain": null
+}
